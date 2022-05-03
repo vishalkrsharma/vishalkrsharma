@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 📫 How to reach me **vishalkrsharma1234@gmail.com**
-
 - ⚡ Fun fact **I love play video games.**
 
 ## 🚀 Languages and Tools:
