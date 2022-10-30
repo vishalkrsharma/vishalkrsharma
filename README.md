@@ -62,8 +62,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/vishal-kumar-sharma-955aa0201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/vishalkrsharma1234/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/vishalkrsharma1234/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <!-- <a href = "https://twitter.com/vishalkr1234"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 
 </p>
