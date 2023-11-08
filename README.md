@@ -3,7 +3,6 @@
 [![@vishalkrsharma's Holopin board](https://holopin.me/vishalkrsharma)](https://holopin.io/@vishalkrsharma)
 
 <h1 align="center">Hi, I'm Vishal</h1>
-<h3 align="center">I'm a BTech 3rd Year Student.</h3>
 
 ## 🙋‍♂️ About Me
 
