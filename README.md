@@ -7,7 +7,6 @@ I am a Software Engineer.
 - 🌍  I'm based in West Bengal, India
 - 🖥️  See my portfolio at [vishalkrsharma.vercel.app](http://vishalkrsharma.vercel.app/)
 - ✉️  You can contact me at [vishalkrsharma1234@gmail.com](mailto:vishalkrsharma1234@gmail.com)
-<!-- - 🚀  I'm currently working on [netflix-gpt-pro](http://github.com/vishalkrsharma/netflix-gpt-pro) -->
 - 🤝  I'm open to collaborating on Software Development
 
 ### Skills
