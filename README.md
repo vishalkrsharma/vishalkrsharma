@@ -2,16 +2,15 @@
 
 # Hi 👋 My name is Vishal
 
-## Web Developer and Designer
-
-I am a Computer Science undergrad.
+I am a Software Engineer.
 
 - 🌍  I'm based in West Bengal, India
 - 🖥️  See my portfolio at [vishalkrsharma.vercel.app](http://vishalkrsharma.vercel.app/)
 - ✉️  You can contact me at [vishalkrsharma1234@gmail.com](mailto:vishalkrsharma1234@gmail.com)
-- 🚀  I'm currently working on [netflix-gpt-pro](http://github.com/vishalkrsharma/netflix-gpt-pro)
-- 🧠  I'm learning Full Stack Web Development
-- 🤝  I'm open to collaborating on Software Development### Skills
+<!-- - 🚀  I'm currently working on [netflix-gpt-pro](http://github.com/vishalkrsharma/netflix-gpt-pro) -->
+- 🤝  I'm open to collaborating on Software Development
+
+### Skills
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
